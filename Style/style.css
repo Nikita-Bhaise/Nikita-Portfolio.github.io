@@ -427,8 +427,8 @@ section.contact{
         width: 90vw;
         margin-top: 4rem;
         border: 50%;
-       /* height: 50vw;
-        Nik*/
+        height: 80vw;
+       /* Nik*/
     }
     .services h2{
         margin-bottom: 3rem;
@@ -454,8 +454,8 @@ section.contact{
         width: 100vw ;
         margin-top: 4rem;
         border: 50%;
-       /* height: 50vw;
-        Nik*/
+       height: 50vw;
+       /* Nik*/
     }
 }
 
