@@ -425,6 +425,8 @@ section.contact{
     .about-img img{
         width: 90vw;
         margin-top: 4rem;
+        border: 50%;
+        /*Nik*/
     }
     .services h2{
         margin-bottom: 3rem;
@@ -449,6 +451,8 @@ section.contact{
     .about-img img{
         width: 100vw ;
         margin-top: 4rem;
+        border: 50%;
+        /*Nik*/
     }
 }
 
