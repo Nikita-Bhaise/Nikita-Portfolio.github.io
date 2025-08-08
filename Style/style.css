@@ -159,7 +159,8 @@ span{
 .about-img img{
     width: 30vw;
    /* animation: ease-out  infinite; */
-    border-radius: 30%;
+    border-radius: 80%;
+    height:41vw;
 }
 .heading{
     text-align: center;
@@ -453,8 +454,8 @@ section.contact{
         width: 100vw ;
         margin-top: 4rem;
         border: 50%;
-        height: 50vw;
-        /*Nik*/
+       /* height: 50vw;
+        Nik*/
     }
 }
 
