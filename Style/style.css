@@ -159,8 +159,8 @@ span{
 .about-img img{
     width: 30vw;
    /* animation: ease-out  infinite; */
-    border-radius: 80%;
-    height:41vw;
+    border-radius: 90%;
+    height:35vw;
 }
 .heading{
     text-align: center;
